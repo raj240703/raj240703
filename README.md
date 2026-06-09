@@ -2,10 +2,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parshva106.parshva106)
 
-<a href="https://www.linkedin.com/in/parshva-mehta-b3102b2b8/">
+<a href="https://www.linkedin.com/in/raj-mamarde-a29676320/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mehtaparshva106@gmail.com">
+<a href="mailto:rajmamarde24@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/parshva106">
